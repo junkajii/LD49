@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/btn_close.wav-5aab7fe6723339be1074061f7ee4263c.sample"
+
+[deps]
+
+source_file="res://assets/audio/btn_close.wav"
+dest_files=[ "res://.import/btn_close.wav-5aab7fe6723339be1074061f7ee4263c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
